@@ -32,6 +32,12 @@ Secure data storage: Confidently store your fitness data in Firebase, linked to 
 3. Run the app (instructions to be added shortly).
  ## Contributing
 
- We welcome contributions! Please see the Contributing Guidelines: CONTRIBUTING.md for more information.
+ We welcome contributions! the Contribution guidelines will be added shortly.
+
+ ## License
+
+ This project is licensed under the MIT License - see the LICENSE file for details.
+
+
 
  
